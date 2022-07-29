@@ -9,6 +9,10 @@ Languages
 4. CSS
 
 
+8. Git
+
+completed.
+
 
 thanks!
 
